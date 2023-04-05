@@ -1,1 +1,18 @@
-{"version":"1.1.2","build":"4"}
+{
+"version":"1.1.2",
+"build":"4",
+  "changelog": [
+       {
+        "version":"1.1.2",
+        "build":"4",
+        "timestamp": 1680723582,
+        "text": "FIX rants flying around the basement"
+      },
+      {
+        "version":"1.1.1",
+        "build":"3",
+        "timestamp": 1680723582,
+        "text": "FIX Login issues"
+      }
+  ]
+}
