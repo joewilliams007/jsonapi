@@ -5,18 +5,18 @@
        {
         "version":"1.1.2",
         "build":"4",
-        "timestamp": 1680723582,
-        "text": "FIX rants flying around the basement"
+        "timestamp": 1680694153,
+        "text": "FIX Login issue (bad request)"
       },{
         "version":"1.1.1",
         "build":"3",
-        "timestamp": 1680694153,
-        "text": "FIX Login issues"
+        "timestamp": 1680693153,
+        "text": "FIX small alignement issues\nADDED feed settings"
       },{
         "version":"1",
         "build":"1", 
         "timestamp": 1680625513,
-        "text": "skyRant first release of skyRant\n\n// Hello World !"
+        "text": "SKYRANT first release of client\n\n// Hello World !"
       }
   ]
 }
