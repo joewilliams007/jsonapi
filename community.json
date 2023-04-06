@@ -4,7 +4,7 @@
     {
         "title":"devrant-lite",
         "os":"",
-        "type":"",
+        "type":"library",
         "timestamp_added":1680726940,
         "desc": "A tiny, fully-featured REST client for the unofficial devRant API",
         "relevant_dr_url":"",
@@ -277,7 +277,7 @@
         "language": "JavaScript",
         "active": false
       },{
-        "title":"Terminal devRant",
+        "title":"devRant-computercraft",
         "os":"",
         "type":"client",
         "timestamp_added":1680726940,
