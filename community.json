@@ -18,6 +18,22 @@
           {"joewilliams007"}
         ]
         "active": true
+      },{
+        "title":"Discord Server",
+        "os":"any",
+        "type":"other",
+        "timestamp_added":1680726940,
+        "desc": "discord server",
+        "relevant_dr_url":"https://devrant.com/collabs/3221539",
+        "website": "https://discord.gg/jMp64VH",
+        "github": "",
+        "languages": [
+          {"java"}
+        ]
+        "devs": [
+          {"vintprox"}
+        ]
+        "active": true
       }
   ]
 }
