@@ -11,7 +11,8 @@
         "website": "",
         "github": "https://github.com/Skayo/devrant-lite",
         "language": "",
-        "active": false
+        "active": false,
+        "owner": "Skayo"
       },{
         "title":"RantScript",
         "os":"",
@@ -22,7 +23,8 @@
         "website": "",
         "github": "https://github.com/RekkyRek/RantScript",
         "language": "node",
-        "active": false
+        "active": false,
+        "owner": "RekkyRek"
       },{
         "title":"ts-devrant",
         "os":"",
@@ -33,7 +35,8 @@
         "website": "",
         "github": "https://github.com/dr010001111/ts-devrant/",
         "language": "node",
-        "active": false
+        "active": false,
+        "owner": "dr010001111"
       },{
         "title":"devrant-bot",
         "os":"",
@@ -44,29 +47,8 @@
         "website": "",
         "github": "https://github.com/theabbie/devrant-bot",
         "language": "node",
-        "active": false
-      },{
-        "title":"devrant-lite",
-        "os":"",
-        "type":"library",
-        "timestamp_added":1680726940,
-        "desc": "A tiny, fully-featured REST client for the unofficial devRant API",
-        "relevant_dr_url":"",
-        "website": "",
-        "github": "https://github.com/Skayo/devrant-lite",
-        "language": "node",
-        "active": false
-      },{
-        "title":"devrant-bot",
-        "os":"",
-        "type":"library",
-        "timestamp_added":1680726940,
-        "desc": "A wrapper for DevRant API specifically to create bots",
-        "relevant_dr_url":"",
-        "website": "",
-        "github": "https://github.com/theabbie/devrant-bot",
-        "language": "node",
-        "active": false
+        "active": false,
+        "owner": "theabbie"
       },{
         "title":"devRant-PHP",
         "os":"",
@@ -77,7 +59,8 @@
         "website": "",
         "github": "https://github.com/pxgamer/devrant-php",
         "language": "PHP",
-        "active": false
+        "active": false,
+        "owner": "pxgamer"
       },{
         "title":"phpRant",
         "os":"",
@@ -88,7 +71,8 @@
         "website": "",
         "github": "https://gist.github.com/Skayo/87eb4cbee4c10fa2c445013b3103d5c8",
         "language": "PHP",
-        "active": false
+        "active": false,
+        "owner": "Skayo"
       },{
         "title":"devRant-C#",
         "os":"",
@@ -99,7 +83,8 @@
         "website": "",
         "github": "https://github.com/WichardRiezebos/devrant",
         "language": ".NET",
-        "active": false
+        "active": false,
+        "owner": "WichardRiezebos"
       },{
         "title":"devGoRant",
         "os":"",
@@ -110,7 +95,8 @@
         "website": "",
         "github": "https://github.com/jayeshsolanki93/devgorant",
         "language": "GO",
-        "active": false
+        "active": false,
+        "owner": "jayeshsolanki93"
       },{
         "title":"goRant",
         "os":"",
@@ -121,7 +107,8 @@
         "website": "",
         "github": "https://github.com/Jay9596/goRant",
         "language": "GO",
-        "active": false
+        "active": false,
+        "owner": "Jay9596"
       },{
         "title":"godevrant",
         "os":"",
@@ -132,7 +119,8 @@
         "website": "",
         "github": "https://github.com/frogstair/godevrant",
         "language": "GO",
-        "active": false
+        "active": false,
+        "owner": "frogstair"
       },{
         "title":"pirant",
         "os":"",
@@ -141,9 +129,10 @@
         "desc": "A Python wrapper for the devRant API",
         "relevant_dr_url":"",
         "website": "",
-        "github": "https://github.com/frogstair/godevrant",
+        "github": "https://github.com/aayush26/pirant",
         "language": "python",
-        "active": false
+        "active": false,
+        "owner": "aayush26"
       },{
         "title":"devRant-Python-API",
         "os":"",
@@ -154,7 +143,8 @@
         "website": "",
         "github": "https://github.com/coolq1000/devrant-python-api",
         "language": "python",
-        "active": false
+        "active": false,
+        "owner": "coolq1000"
       },{
         "title":"pydevrant",
         "os":"",
@@ -165,7 +155,8 @@
         "website": "",
         "github": "https://github.com/SergioLaRosa/pydevrant",
         "language": "python",
-        "active": false
+        "active": false,
+        "owner": "SergioLaRosa"
       },{
         "title":"devRantSimple",
         "os":"",
@@ -176,7 +167,8 @@
         "website": "",
         "github": "https://github.com/Ewpratten/devRantSimple",
         "language": "python",
-        "active": false
+        "active": false,
+        "owner": "Ewpratten"
       },{
         "title":"devRant-Ruby",
         "os":"",
@@ -187,7 +179,20 @@
         "website": "",
         "github": "https://github.com/alexdovzhanyn/devrant",
         "language": "ruby",
-        "active": false
+        "active": false,
+        "owner": "alexdovzhanyn"
+      },{
+        "title":"Rrant",
+        "os":"",
+        "type":"client",
+        "timestamp_added":1680726940,
+        "desc": "Have you ever wanted to read some rants in your terminal ? Now you can and it will look like you work, since terminal output looks serious! You can display random rant as a fortune when logging into terminal, or get some rants in your Ruby code.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/stepnivlk/rrant",
+        "language": "ruby",
+        "active": false,
+        "owner": "stepnivlk"
       },{
         "title":"devRant-Haskell",
         "os":"",
@@ -198,7 +203,8 @@
         "website": "",
         "github": "https://github.com/Supernerd11/devrant-haskell",
         "language": "haskell",
-        "active": false
+        "active": false,
+        "owner": "Supernerd11"
       },{
         "title":"devRant-Crystal",
         "os":"",
@@ -209,7 +215,8 @@
         "website": "",
         "github": "https://github.com/iostreamer-X/devRant-crystal",
         "language": "crystal",
-        "active": false
+        "active": false,
+        "owner": "ostreamer-X"
       },{
         "title":"devRant-Swift",
         "os":"",
@@ -220,7 +227,20 @@
         "website": "",
         "github": "https://github.com/troligtvis/devRant",
         "language": "Swift",
-        "active": false
+        "active": false,
+        "owner": "troligtvis"
+      },{
+        "title":"devRantSwiftUI",
+        "os":"",
+        "type":"client",
+        "timestamp_added":1680726940,
+        "desc": "An unofficial devRant client written in SwiftUI and UIKit for mobile Apple devices.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/OmerFlame/devRantSwiftUI",
+        "language": "Swift",
+        "active": false,
+        "owner": "OmerFlame"
       },{
         "title":"ts-devrant",
         "os":"",
@@ -231,7 +251,8 @@
         "website": "",
         "github": "https://github.com/dr010001111/ts-devrant/",
         "language": "TypeScript",
-        "active": false
+        "active": false,
+        "owner": "dr010001111"
       },{
         "title":"devRant-JS",
         "os":"",
@@ -242,7 +263,8 @@
         "website": "",
         "github": "https://github.com/danillouz/devrant",
         "language": "JavaScript",
-        "active": false
+        "active": false,
+        "owner": "danillouz"
       },{
         "title":"devRant-API",
         "os":"",
@@ -253,7 +275,8 @@
         "website": "",
         "github": "https://github.com/nblackburn/devrant-api",
         "language": "JavaScript",
-        "active": false
+        "active": false,
+        "owner": "nblackburn"
       },{
         "title":"/dev/rant",
         "os":"Linux",
@@ -264,7 +287,8 @@
         "website": "https://gitlab.com/netikras/dev_rant_linux",
         "github": "",
         "language": "bash",
-        "active": false
+        "active": false,
+        "owner": "netikras"
       },{
         "title":"devRant CLI",
         "os":"",
@@ -275,7 +299,8 @@
         "website": "",
         "github": "https://github.com/kurtr/devRantCLI",
         "language": "JavaScript",
-        "active": false
+        "active": false,
+        "owner": "kurtr"
       },{
         "title":"devRant-computercraft",
         "os":"",
@@ -286,7 +311,8 @@
         "website": "",
         "github": "https://github.com/olback/devRant-computercraft",
         "language": "Lua",
-        "active": false
+        "active": false,
+        "owner": "olback"
       },{
         "title":"Terminal devRant",
         "os":"",
@@ -297,7 +323,8 @@
         "website": "",
         "github": "https://github.com/Invisible-Rabbit-Hunter/terminal_devrant",
         "language": "C++",
-        "active": false
+        "active": false,
+        "owner": "Invisible-Rabbit-Hunter"
       },{
         "title":"dr",
         "os":"Linux, OSX, ChromeOS",
@@ -308,7 +335,8 @@
         "website": "",
         "github": "https://github.com/ewpratten/dr",
         "language": "python",
-        "active": false
+        "active": false,
+        "owner": "ewpratten"
       },{
         "title":"devRant Chrome Extension",
         "os":"Chrome",
@@ -319,7 +347,8 @@
         "website": "https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie",
         "github": "",
         "language": "",
-        "active": true
+        "active": true,
+        "owner": ""
       },{
         "title":"jsRant",
         "os":"Windows",
@@ -330,7 +359,8 @@
         "website": "http://www.jsrant.com/",
         "github": "",
         "language": "JavaScript",
-        "active": true
+        "active": true,
+        "owner": ""
       },{
         "title":"devRant UWP",
         "os":"Windows",
@@ -341,7 +371,8 @@
         "website": "https://apps.microsoft.com/store/detail/devrant-uwp/9NBLGGH43LXR?hl=en-us&gl=us&rtc=1",
         "github": "https://github.com/JakubSteplowski/devRantUWP",
         "language": "JavaScript",
-        "active": false
+        "active": false,
+        "owner": "JakubSteplowski"
       },{
         "title":"devRanton",
         "os":"Windows, Linux, macOS",
@@ -352,7 +383,8 @@
         "website": "https://devrantron.firebaseapp.com/",
         "github": "https://github.com/tahnik/devRantron",
         "language": "JavaScript",
-        "active": false
+        "active": false,
+        "owner": "tahnik"
       },{
         "title":"Awesome devRant",
         "os":"",
@@ -363,7 +395,8 @@
         "website": "",
         "github": "https://github.com/devRant-Community/awesome-devrant",
         "language": "md",
-        "active": true
+        "active": true,
+        "owner": "devRant-Community"
       },{
         "title":"Api for devRant community projects",
         "os":"",
@@ -374,7 +407,8 @@
         "website": "",
         "github": "https://github.com/joewilliams007/jsonapi",
         "language": "JSON",
-        "active": true
+        "active": true,
+        "owner": "joewilliams007"
       },{
         "title":"altRant",
         "os":"iOS",
@@ -385,7 +419,8 @@
         "website": "",
         "github": "https://github.com/OmerFlame/AltRant",
         "language": "Swift",
-        "active": true
+        "active": true,
+        "owner": "OmerFlame"
       },{
         "title":"joyRant",
         "os":"iOS & macOS",
@@ -396,7 +431,8 @@
         "website": "https://testflight.apple.com/join/NoiaKmoN",
         "github": "https://github.com/WilhelmOks/JoyRant",
         "language": "Swift",
-        "active": true
+        "active": true,
+        "owner": "WilhelmOks"
       },{
         "title":"watchRant",
         "os":"wear-os",
@@ -407,7 +443,8 @@
         "website": "https://play.google.com/store/apps/details?id=com.dev.watchrant",
         "github": "https://github.com/joewilliams007/watchRant",
         "language": "Java",
-        "active": true
+        "active": true,
+        "owner": "joewilliams007"
       },{
         "title":"skyRant",
         "os":"android",
@@ -418,7 +455,20 @@
         "website": "",
         "github": "https://github.com/joewilliams007/skyRant",
         "language": "Java",
-        "active": true
+        "active": true,
+        "owner": "joewilliams007"
+      },{
+        "title":"DevRant Native",
+        "os":"android",
+        "type":"client",
+        "timestamp_added":1680820355,
+        "desc": "devRant client for Android with a focus on Animations",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/SIMMORSAL/DevRantNative",
+        "language": "Java",
+        "active": false,
+        "owner": "SIMMORSAL"
       },{
         "title":"Discord Server",
         "os":"",
@@ -429,7 +479,8 @@
         "website": "https://discord.gg/jMp64VH",
         "github": "",
         "language": "",
-        "active": true
+        "active": true,
+        "owner": "vintprox"
       },{
         "title":"Unofficial API Docs",
         "os":"",
@@ -440,7 +491,8 @@
         "website": "https://devrantapi.docs.apiary.io/",
         "github": "https://github.com/devRant-Community/API-Docs",
         "language": "",
-        "active": true
+        "active": true,
+        "owner": "devRant-Community"
       },{
         "title":"Unofficial devRant API Documentation",
         "os":"",
@@ -451,7 +503,20 @@
         "website": "https://unofficial-devrant-api-documentation.readthedocs.io/en/latest/",
         "github": "",
         "language": "",
-        "active": true
+        "active": true,
+        "owner": ""
+      },{
+        "title":"devRant Bots Registry",
+        "os":"",
+        "type":"documentation",
+        "timestamp_added":1680820846,
+        "desc": "This repo is used to track the known utility bots of devRant.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/C0D4-101/devrant-bots",
+        "language": "",
+        "active": true,
+        "owner": "C0D4-101"
       },{
         "title":"YouTube",
         "os":"",
@@ -462,7 +527,8 @@
         "website": "https://www.youtube.com/channel/UCyJ69RzSnzXayyp-UOoZytg",
         "github": "",
         "language": "",
-        "active": false
+        "active": false,
+        "owner": "devRant"
       }
   ]
 }
