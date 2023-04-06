@@ -7,15 +7,14 @@
         "type":"client",
         "timestamp_added":1680726940,
         "desc": "devRant client for Android with a focus on Animations",
-        "relevant_rant_id":"",
-        "relevant_rant_type":"rant/collab",
+        "relevant_dr_url":"",
         "website": "",
         "github": "https://github.com/joewilliams007/skyRant",
         "languages": [
-          {"java"}
+          ["java"]
         ],
         "devs": [
-          {"joewilliams007"}
+          ["joewilliams007"]
         ],
         "active": true
       },{
@@ -28,10 +27,10 @@
         "website": "https://discord.gg/jMp64VH",
         "github": "",
         "languages": [
-          {"java"}
+          ["java"]
         ]
         "devs": [
-          {"vintprox"}
+          ["vintprox"]
         ]
         "active": true
       }
