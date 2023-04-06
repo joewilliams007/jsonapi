@@ -1,7 +1,28 @@
 {
   "last_updated":1680726940,
-  "projects": [
        {
+        "title":"/dev/rant/",
+        "os":"Linux",
+        "type":"client",
+        "timestamp_added":1680726940,
+        "desc": "A simple devrant.com integration into Linux via /dev/rant",
+        "relevant_dr_url":"",
+        "website": "https://gitlab.com/netikras/dev_rant_linux",
+        "github": "",
+        "language": "bash",
+        "active": false
+      },{
+        "title":"devRant CLI",
+        "os":"",
+        "type":"client",
+        "timestamp_added":1680726940,
+        "desc": "devRant terminal client with ASCII image conversion",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/kurtr/devRantCLI",
+        "language": "JavaScript",
+        "active": false
+      },{
         "title":"Terminal devRant",
         "os":"",
         "type":"client",
