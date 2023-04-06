@@ -1,6 +1,6 @@
 # Api for devRant community projects
 
-This projects file community.json contains alot of devRant projects data in JSON-format.
+This projects file community.json contains alot of devRant projects data in JSON-format. The file can be used raw as an API endpoint.
 
 ## API endpoint
 
