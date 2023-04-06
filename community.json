@@ -2,6 +2,95 @@
   "last_updated":1680726940,
   "projects": [
        {
+        "title":"Terminal devRant",
+        "os":"",
+        "type":"documentation",
+        "timestamp_added":1680726940,
+        "desc": "devRant client written in Lua for ComputerCraft computers. (Minecraft Stuff)",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/olback/devRant-computercraft",
+        "language": "Lua",
+        "active": false
+      },{
+        "title":"Terminal devRant",
+        "os":"",
+        "type":"documentation",
+        "timestamp_added":1680726940,
+        "desc": "A devRant viewer in the terminal",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/Invisible-Rabbit-Hunter/terminal_devrant",
+        "language": "C++",
+        "active": false
+      },{
+        "title":"dr",
+        "os":"Linux, OSX, ChromeOS",
+        "type":"documentation",
+        "timestamp_added":1680726940,
+        "desc": "An ed-like devrant client with support for chromebooks",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/ewpratten/dr",
+        "language": "python",
+        "active": false
+      },{
+        "title":"devRant Chrome Extension",
+        "os":"Chrome",
+        "type":"documentation",
+        "timestamp_added":1680726940,
+        "desc": "A devRant client for Chrome for quickly browsing the feed without leaving the site",
+        "relevant_dr_url":"",
+        "website": "https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie",
+        "github": "",
+        "language": "",
+        "active": true
+      },{
+        "title":"jsRant",
+        "os":"Windows",
+        "type":"documentation",
+        "timestamp_added":1680726940,
+        "desc": "Navigate the devRant feed in JSON format. Perfect for browsing devRant at work!",
+        "relevant_dr_url":"",
+        "website": "http://www.jsrant.com/",
+        "github": "",
+        "language": "JavaScript",
+        "active": true
+      },{
+        "title":"devRant UWP",
+        "os":"Windows",
+        "type":"documentation",
+        "timestamp_added":1680726940,
+        "desc": "The first and unique "devRant" (unofficial) client for Windows 10!",
+        "relevant_dr_url":"",
+        "website": "https://apps.microsoft.com/store/detail/devrant-uwp/9NBLGGH43LXR?hl=en-us&gl=us&rtc=1",
+        "github": "https://github.com/JakubSteplowski/devRantUWP",
+        "language": "JavaScript",
+        "active": false
+      },{
+        "tit
+        "title":"devRanton",
+        "os":"Windows, Linux, macOS",
+        "type":"documentation",
+        "timestamp_added":1680726940,
+        "desc": "An open source devRant client.\nBuilt for the community by the community.",
+        "relevant_dr_url":"",
+        "website": "https://devrantron.firebaseapp.com/",
+        "github": "https://github.com/tahnik/devRantron",
+        "language": "JavaScript",
+        "active": false
+      },{
+        "title":"Awesome devRant",
+        "os":"any",
+        "type":"documentation",
+        "timestamp_added":1680726940,
+        "desc": "A curated list of awesome devRant projects, libraries, software and resources",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/devRant-Community/awesome-devrant",
+        "language": "md",
+        "active": true
+      },{
         "title":"altRant",
         "os":"iOS",
         "type":"client",
