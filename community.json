@@ -530,7 +530,14 @@
         "active": false,
         "owner": "devRant"
         },{
-          "title": "highlight",
+          "type":"bot",
+          "timestamp_added":1680820846,
+          "os":"",
+          "language": "",
+          "active": false,
+          "github": "",
+          "relevant_dr_url":"",
+          "title": "RandomQuote",
           "desc": "A bot that can turn any comment into an image with nice syntax highlighting",
           "website": "https://devrant.com/users/highlight",
           "owner": "Skayo"
@@ -614,7 +621,6 @@
           "active": false,
           "github": "",
           "relevant_dr_url":"",
-  
           "title": "trivia",
           "desc": "A bot that asks trivia questions",
           "website": "https://devrant.com/users/trivia",
