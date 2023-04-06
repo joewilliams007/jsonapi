@@ -1,7 +1,40 @@
 {
   "last_updated":1680726940,
   "projects": [
-      {
+       {
+        "title":"altRant",
+        "os":"iOS",
+        "type":"client",
+        "timestamp_added":1680726940,
+        "desc": "Unofficial devRant iOS app made with Swift + UIKit Framework.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/OmerFlame/AltRant",
+        "language": "Swift",
+        "active": true
+      },{
+        "title":"joyRant",
+        "os":"iOS & macOS",
+        "type":"client",
+        "timestamp_added":1680726940,
+        "desc": "An unofficial devRant client for iOS and macOS, that doesn't crash.",
+        "relevant_dr_url":"",
+        "website": "https://testflight.apple.com/join/NoiaKmoN",
+        "github": "https://github.com/WilhelmOks/JoyRant",
+        "language": "Swift",
+        "active": true
+      },{
+        "title":"watchRant",
+        "os":"wear-os",
+        "type":"client",
+        "timestamp_added":1680726940,
+        "desc": "A devRant client for your watch!",
+        "relevant_dr_url":"",
+        "website": "https://play.google.com/store/apps/details?id=com.dev.watchrant",
+        "github": "https://github.com/joewilliams007/watchRant",
+        "language": "Java",
+        "active": true
+      },{
         "title":"skyRant",
         "os":"android",
         "type":"client",
@@ -10,6 +43,7 @@
         "relevant_dr_url":"",
         "website": "",
         "github": "https://github.com/joewilliams007/skyRant",
+        "language": "Java",
         "active": true
       },{
         "title":"Discord Server",
@@ -20,6 +54,7 @@
         "relevant_dr_url":"https://devrant.com/collabs/3221539",
         "website": "https://discord.gg/jMp64VH",
         "github": "",
+        "language": "",
         "active": true
       }
   ]
