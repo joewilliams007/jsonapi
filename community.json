@@ -4,7 +4,7 @@
        {
         "title":"Terminal devRant",
         "os":"",
-        "type":"documentation",
+        "type":"client",
         "timestamp_added":1680726940,
         "desc": "devRant client written in Lua for ComputerCraft computers. (Minecraft Stuff)",
         "relevant_dr_url":"",
@@ -15,7 +15,7 @@
       },{
         "title":"Terminal devRant",
         "os":"",
-        "type":"documentation",
+        "type":"client",
         "timestamp_added":1680726940,
         "desc": "A devRant viewer in the terminal",
         "relevant_dr_url":"",
@@ -26,7 +26,7 @@
       },{
         "title":"dr",
         "os":"Linux, OSX, ChromeOS",
-        "type":"documentation",
+        "type":"client",
         "timestamp_added":1680726940,
         "desc": "An ed-like devrant client with support for chromebooks",
         "relevant_dr_url":"",
@@ -37,7 +37,7 @@
       },{
         "title":"devRant Chrome Extension",
         "os":"Chrome",
-        "type":"documentation",
+        "type":"client",
         "timestamp_added":1680726940,
         "desc": "A devRant client for Chrome for quickly browsing the feed without leaving the site",
         "relevant_dr_url":"",
@@ -48,7 +48,7 @@
       },{
         "title":"jsRant",
         "os":"Windows",
-        "type":"documentation",
+        "type":"client",
         "timestamp_added":1680726940,
         "desc": "Navigate the devRant feed in JSON format. Perfect for browsing devRant at work!",
         "relevant_dr_url":"",
@@ -59,7 +59,7 @@
       },{
         "title":"devRant UWP",
         "os":"Windows",
-        "type":"documentation",
+        "type":"client",
         "timestamp_added":1680726940,
         "desc": "The first and unique 'devRant' (unofficial) client for Windows 10!",
         "relevant_dr_url":"",
@@ -70,7 +70,7 @@
       },{
         "title":"devRanton",
         "os":"Windows, Linux, macOS",
-        "type":"documentation",
+        "type":"client",
         "timestamp_added":1680726940,
         "desc": "An open source devRant client.\nBuilt for the community by the community.",
         "relevant_dr_url":"",
