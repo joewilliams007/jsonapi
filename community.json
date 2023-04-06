@@ -365,6 +365,17 @@
         "language": "md",
         "active": true
       },{
+        "title":"Api for devRant community projects",
+        "os":"any",
+        "type":"documentation",
+        "timestamp_added":1680790260,
+        "desc": "This projects file community.json contains alot of devRant projects data in JSON-format. The file can be used raw as an API endpoint.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/joewilliams007/jsonapi",
+        "language": "JSON",
+        "active": true
+      },{
         "title":"altRant",
         "os":"iOS",
         "type":"client",
