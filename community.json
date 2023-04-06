@@ -424,10 +424,10 @@
         "os":"any",
         "type":"documentation",
         "timestamp_added":1680779538,
-        "desc": "discord server",
+        "desc": "Welcome to the unofficial devRant API Documentation! Here you will find documentation for all known endpoints",
         "relevant_dr_url":"",
-        "website": "Welcome to the unofficial devRant API Documentation! Here you will find documentation for all known endpoints",
-        "github": "",
+        "website": "https://devrantapi.docs.apiary.io/",
+        "github": "https://github.com/devRant-Community/API-Docs",
         "language": "",
         "active": true
       },{
@@ -446,7 +446,7 @@
         "os":"any",
         "type":"content",
         "timestamp_added":1680779538,
-        "desc": "Unofficial devRant API Documentation built with MkDocs",
+        "desc": "devRant youtube channel",
         "relevant_dr_url":"",
         "website": "https://www.youtube.com/channel/UCyJ69RzSnzXayyp-UOoZytg",
         "github": "",
