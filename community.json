@@ -355,7 +355,7 @@
         "active": false
       },{
         "title":"Awesome devRant",
-        "os":"any",
+        "os":"",
         "type":"documentation",
         "timestamp_added":1680726940,
         "desc": "A curated list of awesome devRant projects, libraries, software and resources",
@@ -366,7 +366,7 @@
         "active": true
       },{
         "title":"Api for devRant community projects",
-        "os":"any",
+        "os":"",
         "type":"documentation",
         "timestamp_added":1680790260,
         "desc": "This projects file community.json contains alot of devRant projects data in JSON-format. The file can be used raw as an API endpoint.",
@@ -421,7 +421,7 @@
         "active": true
       },{
         "title":"Discord Server",
-        "os":"any",
+        "os":"",
         "type":"communitys",
         "timestamp_added":1680726940,
         "desc": "discord server",
@@ -432,7 +432,7 @@
         "active": true
       },{
         "title":"Unofficial API Docs",
-        "os":"any",
+        "os":"",
         "type":"documentation",
         "timestamp_added":1680779538,
         "desc": "Welcome to the unofficial devRant API Documentation! Here you will find documentation for all known endpoints",
@@ -443,7 +443,7 @@
         "active": true
       },{
         "title":"Unofficial devRant API Documentation",
-        "os":"any",
+        "os":"",
         "type":"documentation",
         "timestamp_added":1680779538,
         "desc": "Unofficial devRant API Documentation built with MkDocs",
@@ -454,7 +454,7 @@
         "active": true
       },{
         "title":"YouTube",
-        "os":"any",
+        "os":"",
         "type":"content",
         "timestamp_added":1680779538,
         "desc": "devRant youtube channel",
