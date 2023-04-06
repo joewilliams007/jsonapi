@@ -3,6 +3,11 @@
   "build":"5",
   "changelog": [
       {
+        "version":"1.1.4",
+        "build":"6",
+        "timestamp": 1680791520,
+        "text": "ADDED community page with community made projects\nADDED about page with helpful links"
+      },{
         "version":"1.1.3",
         "build":"5",
         "timestamp": 1680726940,
