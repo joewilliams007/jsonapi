@@ -10,12 +10,6 @@
         "relevant_dr_url":"",
         "website": "",
         "github": "https://github.com/joewilliams007/skyRant",
-        "languages": [
-          {"java"}
-        ],
-        "devs": [
-          {"joewilliams007"}
-        ],
         "active": true
       },{
         "title":"Discord Server",
@@ -26,12 +20,6 @@
         "relevant_dr_url":"https://devrant.com/collabs/3221539",
         "website": "https://discord.gg/jMp64VH",
         "github": "",
-        "languages": [
-          {"java"}
-        ]
-        "devs": [
-        {"vintprox"}
-        ]
         "active": true
       }
   ]
