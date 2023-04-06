@@ -61,14 +61,13 @@
         "os":"Windows",
         "type":"documentation",
         "timestamp_added":1680726940,
-        "desc": "The first and unique "devRant" (unofficial) client for Windows 10!",
+        "desc": "The first and unique 'devRant' (unofficial) client for Windows 10!",
         "relevant_dr_url":"",
         "website": "https://apps.microsoft.com/store/detail/devrant-uwp/9NBLGGH43LXR?hl=en-us&gl=us&rtc=1",
         "github": "https://github.com/JakubSteplowski/devRantUWP",
         "language": "JavaScript",
         "active": false
       },{
-        "tit
         "title":"devRanton",
         "os":"Windows, Linux, macOS",
         "type":"documentation",
