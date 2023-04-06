@@ -4,7 +4,7 @@
     {
         "title":"devrant-lite",
         "os":"",
-        "type":"",
+        "type":"library",
         "timestamp_added":1680726940,
         "desc": "",
         "relevant_dr_url":"A tiny, fully-featured REST client for the unofficial devRant API",
