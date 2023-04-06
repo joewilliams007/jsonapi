@@ -5,6 +5,7 @@
         "title":"skyRant",
         "os":"android",
         "type":"client",
+        "timestamp_added":1680726940,
         "desc": "devRant client for Android with a focus on Animations",
         "relevant_rant_id":"",
         "relevant_rant_type":"rant/collab",
