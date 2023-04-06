@@ -10,9 +10,12 @@ https://raw.githubusercontent.com/joewilliams007/jsonapi/gh-pages/community.json
 
 You may implement this API into your clients or use as you wish.
 
-## Credit
+## Credit & Sources
 
-credit to @skayo again for creatinghis collection.
+credit to Skayo again for creating his collection.
 https://github.com/devRant-Community/awesome-devrant
+
+credit to the team of C0D4-101 for their collection of bots.
+https://github.com/C0D4-101/devrant-bots
 
 you may use this repository in any way you want
