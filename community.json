@@ -11,10 +11,10 @@
         "website": "",
         "github": "https://github.com/joewilliams007/skyRant",
         "languages": [
-          ["java"]
+          {"java"}
         ],
         "devs": [
-          ["joewilliams007"]
+          {"joewilliams007"}
         ],
         "active": true
       },{
@@ -27,10 +27,10 @@
         "website": "https://discord.gg/jMp64VH",
         "github": "",
         "languages": [
-          ["java"]
+          {"java"}
         ]
         "devs": [
-          ["vintprox"]
+        {"vintprox"}
         ]
         "active": true
       }
