@@ -1,7 +1,62 @@
 {
   "last_updated":1680726940,
   "projects": [
-		{
+    {
+        "title":"devrant-lite",
+        "os":"",
+        "type":"",
+        "timestamp_added":1680726940,
+        "desc": "",
+        "relevant_dr_url":"A tiny, fully-featured REST client for the unofficial devRant API",
+        "website": "",
+        "github": "https://github.com/Skayo/devrant-lite",
+        "language": "",
+        "active": false
+      },{
+        "title":"devrant-bot",
+        "os":"",
+        "type":"library",
+        "timestamp_added":1680726940,
+        "desc": "",
+        "relevant_dr_url":"A wrapper for DevRant API specifically to create bots",
+        "website": "",
+        "github": "https://github.com/theabbie/devrant-bot",
+        "language": "",
+        "active": false
+      },{
+        "title":"ts-devrant",
+        "os":"",
+        "type":"library",
+        "timestamp_added":1680726940,
+        "desc": "Isomorphic, TypeScript based wrapper for the devRant API (inspired by RantScript)",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/dr010001111/ts-devrant/",
+        "language": "TypeScript",
+        "active": false
+      },{
+        "title":"devRant-JS",
+        "os":"",
+        "type":"library",
+        "timestamp_added":1680726940,
+        "desc": "A JavaScript wrapper for the devRant API",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/danillouz/devrant",
+        "language": "JavaScript",
+        "active": false
+      },{
+        "title":"devRant-API",
+        "os":"",
+        "type":"library",
+        "timestamp_added":1680726940,
+        "desc": "A JavaScript wrapper for the devRant API",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/nblackburn/devrant-api",
+        "language": "JavaScript",
+        "active": false
+      },{
         "title":"/dev/rant",
         "os":"Linux",
         "type":"client",
