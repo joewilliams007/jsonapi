@@ -548,8 +548,8 @@
         "language": "",
         "active": false,
         "github": "",
-        "relevant_dr_url":"",
-        "title": "RandomQuote",
+        "relevant_dr_url":"https://devrant.com/rants/2178721",
+        "title": "highlight",
         "desc": "A bot that can turn any comment into an image with nice syntax highlighting",
         "website": "https://devrant.com/users/highlight",
         "owner": "Skayo"
