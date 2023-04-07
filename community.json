@@ -530,6 +530,18 @@
         "active": false,
         "owner": "devRant"
       },{
+        "title":"devRant Series",
+        "os":"",
+        "type":"content",
+        "timestamp_added":1680875794,
+        "desc": "devRant memes, hunger games and more!",
+        "relevant_dr_url":"",
+        "website": "https://www.youtube.com/playlist?list=PLrvtQKthQjEklGtjw-7ydcey2uRHBs2mi",
+        "github": "",
+        "language": "",
+        "active": false,
+        "owner": "Vintprox Entertainment"
+      },{
         "type":"bot",
         "timestamp_added":1680820846,
         "os":"",
