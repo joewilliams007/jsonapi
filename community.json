@@ -721,6 +721,18 @@
         "desc": "A bot for answering question posts using chatgpt",
         "website": "https://devrant.com/users/chatgpt",
         "owner": "netikras "
+      },{
+        "title":"SwiftRant",
+        "os":"",
+        "type":"library",
+        "timestamp_added":1680876295,
+        "desc": "Swift library for the devRant API.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/OmerFlame/SwiftRant",
+        "language": "Swift",
+        "active": true,
+        "owner": "OmerFlame"
       }
   ]
 }
