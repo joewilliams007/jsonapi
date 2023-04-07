@@ -327,7 +327,7 @@
         "owner": "Invisible-Rabbit-Hunter"
       },{
         "title":"dr",
-        "os":"Linux, OSX, ChromeOS",
+        "os":"Linux, macOS, ChromeOS",
         "type":"client",
         "timestamp_added":1680726940,
         "desc": "An ed-like devrant client with support for chromebooks",
@@ -423,7 +423,7 @@
         "owner": "OmerFlame"
       },{
         "title":"joyRant",
-        "os":"iOS & macOS",
+        "os":"iOS, macOS",
         "type":"client",
         "timestamp_added":1680726940,
         "desc": "An unofficial devRant client for iOS and macOS, that doesn't crash.",
