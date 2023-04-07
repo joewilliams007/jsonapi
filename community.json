@@ -1,5 +1,5 @@
 {
-  "last_updated":1680726940,
+  "last_updated":1680883633,
   "projects": [
     {
         "title":"devrant-lite",
@@ -82,7 +82,7 @@
         "relevant_dr_url":"A C# wrapper for the devRant API",
         "website": "",
         "github": "https://github.com/WichardRiezebos/devrant",
-        "language": ".NET",
+        "language": "C#",
         "active": false,
         "owner": "WichardRiezebos"
       },{
@@ -462,7 +462,7 @@
         "os":"android",
         "type":"client",
         "timestamp_added":1680820355,
-        "desc": "devRant client for Android with a focus on Animations",
+        "desc": "A devRant demo made natively for android by a native of devRant.",
         "relevant_dr_url":"",
         "website": "",
         "github": "https://github.com/SIMMORSAL/DevRantNative",
@@ -733,6 +733,54 @@
         "language": "Swift",
         "active": true,
         "owner": "OmerFlame"
-      }
+      },{
+        "title":"Devrant-Discord-Bot",
+        "os":"",
+        "type":"bot",
+        "timestamp_added":1680883633,
+        "desc": "This bot was built for the devRant Discord community. The bot has been built by epictern and vintprox. Currently uses DJS v13.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/anjannair/Devrant-Discord-Bot",
+        "language": "JavaScript",
+        "active": true,
+        "owner": "epictern,vintprox"
+      },{
+        "title":"devBanner",
+        "os":"",
+        "type":"tool",
+        "timestamp_added":1680883633,
+        "desc": "devBanner is a collaboration project first started in devRant. It's aimed at creating personalized banners for everyone without using photo manipulation software. It currently creates personalized banners including your own subtext for devRant members using the devRant API.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/devBanner/devBanner",
+        "language": "C#",
+        "active": false,
+        "owner": "devBanner"
+      },{
+        "title":"devBanner Frontend",
+        "os":"",
+        "type":"tool",
+        "timestamp_added":1680883633,
+        "desc": "devBanner is a collaboration project first started in devRant. It's aimed at creating personalized banners for everyone without using photo manipulation software. It currently creates personalized banners including your own subtext for devRant members using the devRant API.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/devBanner/devBanner_Frontend",
+        "language": "HTML,JavaScript,CSS",
+        "active": false,
+        "owner": "devBanner"
+      },{
+        "title":"devRant swear remover",
+        "os":"Chrome",
+        "type":"tool",
+        "timestamp_added":1680883633,
+        "desc": "remove swear words from posts",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/devTeaa/devrant-unswear",
+        "language": "JavaScript",
+        "active": false,
+        "owner": "devTeaa"
+    }
   ]
 }
