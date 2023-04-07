@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/joewilliams007/jsonapi/gh-pages/community.json
 ## use cases
 
 You may implement this API into your clients or use as you wish.
+Example implementations: [JoyRant](https://github.com/WilhelmOks/JoyRant), [skyRant](https://github.com/joewilliams007/skyRant)
 
 ## Credit & Sources
 
