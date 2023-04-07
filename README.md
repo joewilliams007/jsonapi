@@ -6,7 +6,7 @@ This projects file community.json contains alot of devRant projects data in JSON
 
 https://raw.githubusercontent.com/joewilliams007/jsonapi/gh-pages/community.json
 
-## use cases
+## Use cases
 
 You may implement this API into your clients or use as you wish.
 Example implementations: [JoyRant](https://github.com/WilhelmOks/JoyRant), [skyRant](https://github.com/joewilliams007/skyRant)
