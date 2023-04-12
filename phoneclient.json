@@ -5,7 +5,7 @@
       {
         "version":"1.1.6",
         "build":"8",
-        "timestamp": 1680834439,
+        "timestamp": 1681266190,
         "text": "ADDED the Avatar editor\nIMPROVED community page is now dynamic to new types and OS's\nFIXED app crashing when tapping on an image that wasn't stored in an intent\nFIXED tags were confusingly all underlined together\nFIXED search re-appearing by itself"
       },{
         "version":"1.1.5",
