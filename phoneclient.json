@@ -6,7 +6,7 @@
         "version":"1.1.7.1",
         "build":"10",
         "timestamp": 1681383229,
-        "text": "FIXED search not working when animation of Simmorsal disabled\nFIXED Avatar Builder ignoring sub types for hair styla and color"
+        "text": "FIXED search not working when animation of Simmorsal disabled\nFIXED Avatar Builder ignoring sub types for hair styles and color\n\n// squashed them and blood has fallen"
       },{
         "version":"1.1.7",
         "build":"9",
