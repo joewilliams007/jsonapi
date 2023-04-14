@@ -1,13 +1,18 @@
 {
-  "version":"1.1.7.2",
-  "build":"11",
+  "version":"1.1.7.3",
+  "build":"12",
   "changelog": [
-    {
-      "version":"1.1.7.2",
-      "build":"11",
-      "timestamp": 1681388140,
-      "text": "IMPROVED community page - link preview has been added"
-    },{
+      {
+        "version":"1.1.7.3",
+        "build":"12",
+        "timestamp": 1681492259,
+        "text": "ADDED discord like theme\nADDED green theme\nIMPROVED the main UI Btns padding area increased"
+      },{
+        "version":"1.1.7.2",
+        "build":"11",
+        "timestamp": 1681388140,
+        "text": "IMPROVED community page - link preview has been added"
+      },{
         "version":"1.1.7.1",
         "build":"10",
         "timestamp": 1681383229,
