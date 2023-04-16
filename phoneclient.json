@@ -1,8 +1,13 @@
 {
-  "version":"1.1.7.3",
-  "build":"12",
+  "version":"1.1.7.4",
+  "build":"13",
   "changelog": [
-      {
+    {
+      "version":"1.1.7.4",
+      "build":"13",
+      "timestamp": 1681678193,
+      "text": "ADDED notifications\n\n// Let's not talk abt how they work lol"
+    },{
         "version":"1.1.7.3",
         "build":"12",
         "timestamp": 1681492259,
