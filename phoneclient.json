@@ -6,7 +6,7 @@
       "version":"1.1.7.5",
       "build":"14",
       "timestamp": 1682016418,
-      "text": "ADDED surprise btn to get a new surprise\nIMPROVED search - keyboard now shows search btn\nFIXED deep linking - no empty feed on back-press"
+      "text": "ADDED surprise btn to get a new surprise\nADDED refresh btns\nIMPROVED search - keyboard now shows search btn\nFIXED deep linking - no empty feed on back-press"
     },{
         "version":"1.1.7.4",
         "build":"13",
