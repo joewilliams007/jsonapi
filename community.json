@@ -790,9 +790,69 @@
         "relevant_dr_url":"",
         "website": "",
         "github": "https://github.com/olpeh/pebble-devrant-watchface",
-        "language": "c, python",
+        "language": "c,python",
         "active": false,
         "owner": "olpeh"
-    }
+      },{
+        "title":"Chrome Extension: Notifications for devRant",
+        "os":"Chrome",
+        "type":"tool",
+        "timestamp_added":1682606921,
+        "desc": "This extension for chrome will display notifications when a new rant is posted on https://devrant.io.\n\nOn the notifications you will have the option to share it or to open it in your browser.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/gitter-badger/devrant-chrome-extension",
+        "language": "JavaScript,HTML",
+        "active": false,
+        "owner": "gitter-badger"
+      },{
+        "title":"harbour-devrant",
+        "os":"SailfishOS",
+        "type":"client",
+        "timestamp_added":1682606921,
+        "desc": "Unofficial devRant application for SailfishOS",
+        "relevant_dr_url":"",
+        "website": "https://openrepos.net/content/olpe/devrant-unofficial",
+        "github": "https://github.com/olpeh/harbour-devrant",
+        "language": "QML,JavaScript,C++,QMake",
+        "active": false,
+        "owner": "olpeh"
+      },{
+        "title":"platrant",
+        "os":"Unity",
+        "type":"game",
+        "timestamp_added":1682606921,
+        "desc": "Platrant is an unofficial community driven platformer game based around the popular devRant app.\n\nThis project spawned from the frustration of needing experience to get into the game development scene, but nowhere to get said experience. This led to a post on devrant.io, which led to an open project where developers can learn game development! The idea is to learn, make, ship and brag!\n\nTo get started, let us know who you are on our chatroom on Discord.",
+        "relevant_dr_url":"",
+        "website": "https://discord.gg/nNmQbBS",
+        "github": "https://github.com/platrant/platrant",
+        "language": "C#",
+        "active": false,
+        "owner": "platrant"
+      },{
+        "title":"PyRant",
+        "os":"",
+        "type":"client",
+        "timestamp_added":1682606921,
+        "desc": "This is an unofficial Python client library for DevRant.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/and3rson/pyrant",
+        "language": "python",
+        "active": false,
+        "owner": "platrant"
+      },{
+        "title":"DevRant.io Unofficial API Documentation",
+        "os":"",
+        "type":"documentation",
+        "timestamp_added":1680779538,
+        "desc": "Here is a raw documentation of the DevRant public API. It is, as far as I know, largly undocumented and lacks a lot of methods that require authentication, which needs some work.",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/abhn/devRant-Unofficial-API-Doc",
+        "language": "",
+        "active": false,
+        "owner": "abhn"
+      }
   ]
 }
