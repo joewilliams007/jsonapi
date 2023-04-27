@@ -436,7 +436,7 @@
       },{
         "title":"watchRant",
         "os":"wear-os",
-        "type":"client",
+        "type":"client, watchface",
         "timestamp_added":1680726940,
         "desc": "A devRant client for your watch!",
         "relevant_dr_url":"https://devrant.com/rants/6340608",
@@ -781,6 +781,18 @@
         "language": "JavaScript",
         "active": false,
         "owner": "devTeaa"
+      },{
+        "title":"pebble-devrant-watchface",
+        "os":"PebbleOS",
+        "type":"watchface",
+        "timestamp_added":1682606921,
+        "desc": "Unofficial devRant watchface for Pebble",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/olpeh/pebble-devrant-watchface",
+        "language": "c, python",
+        "active": false,
+        "owner": "olpeh"
     }
   ]
 }
