@@ -436,7 +436,7 @@
       },{
         "title":"watchRant",
         "os":"wear-os",
-        "type":"client, watchface",
+        "type":"client,watchface",
         "timestamp_added":1680726940,
         "desc": "A devRant client for your watch!",
         "relevant_dr_url":"https://devrant.com/rants/6340608",
