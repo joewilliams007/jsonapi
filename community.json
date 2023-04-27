@@ -438,7 +438,7 @@
         "os":"wear-os",
         "type":"client,watchface",
         "timestamp_added":1680726940,
-        "desc": "A devRant client for your watch!",
+        "desc": "A devRant client for your watch! Contains the ability to set any devRant Avatar as a watch face.",
         "relevant_dr_url":"https://devrant.com/rants/6340608",
         "website": "https://play.google.com/store/apps/details?id=com.dev.watchrant",
         "github": "https://github.com/joewilliams007/watchRant",
