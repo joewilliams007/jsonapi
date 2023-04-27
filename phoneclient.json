@@ -3,6 +3,11 @@
   "build":"15",
   "changelog": [
     {
+      "version":"1.1.7.7",
+      "build":"15",
+      "timestamp": 1682605855,
+      "text": "ADDED new theme (coffee)\nIMPROVED light theme"
+    },{
       "version":"1.1.7.6",
       "build":"15",
       "timestamp": 1682547587,
