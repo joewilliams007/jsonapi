@@ -33,7 +33,7 @@
         "desc": "Isomorphic, TypeScript based wrapper for the devRant API (inspired by RantScript)",
         "relevant_dr_url":"",
         "website": "",
-        "github": "https://github.com/dr010001111/ts-devrant/",
+        "github": "https://github.com/dr010001111/ts-devrant",
         "language": "node",
         "active": false,
         "owner": "dr010001111"
