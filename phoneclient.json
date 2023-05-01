@@ -1,8 +1,13 @@
 {
-  "version":"1.1.9.0",
-  "build":"19",
+  "version":"1.1.9.1",
+  "build":"20",
   "changelog": [
     {
+      "version":"1.1.9.1",
+      "build":"20",
+      "timestamp": 1682983127,
+      "text": "FIXED ui elements"
+      },{
       "version":"1.1.9.0",
       "build":"19",
       "timestamp": 1682956714,
