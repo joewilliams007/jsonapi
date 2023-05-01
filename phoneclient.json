@@ -1,18 +1,23 @@
 {
-  "version":"1.1.7.7",
-  "build":"16",
+  "version":"1.1.8.0",
+  "build":"17",
   "changelog": [
     {
-      "version":"1.1.7.7",
-      "build":"16",
-      "timestamp": 1682605855,
-      "text": "ADDED new theme (coffee)\nIMPROVED light theme"
-    },{
-      "version":"1.1.7.6",
-      "build":"15",
-      "timestamp": 1682547587,
-      "text": "IMPROVED performance of various horizontal menus"
-    },{
+      "version":"1.1.8.0",
+      "build":"17",
+      "timestamp": 1682907124,
+      "text": "ADDED Github page for repository\nADDED Github page for profile\nADDED Github deep linking\nADDED Github key generation option\nIMPROVED coffee theme\nIMPROVED settings page - btns now stand out"
+      },{
+        "version":"1.1.7.7",
+        "build":"16",
+        "timestamp": 1682605855,
+        "text": "ADDED new theme (coffee)\nIMPROVED light theme"
+      },{
+        "version":"1.1.7.6",
+        "build":"15",
+        "timestamp": 1682547587,
+        "text": "IMPROVED performance of various horizontal menus"
+      },{
         "version":"1.1.7.5",
         "build":"14",
         "timestamp": 1682016418,
