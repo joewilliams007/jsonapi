@@ -1,8 +1,13 @@
 {
-  "version":"1.1.9.1",
+  "version":"1.1.10.0",
   "build":"20",
   "changelog": [
     {
+      "version":"1.1.10.0",
+      "build":"20",
+      "timestamp": 1682983127,
+      "text": "ADDED option to view comments made by user\nADDED ability to view ++'s by user\nADDED ability to block rants by words\nADDED ability to block users rants\nADDED ability to set app language to german\nIMPROVED link preview alignements\nIMRPOVED text - readability\nFIXED minor bugs\n\n// gonna filter all them gpt 'rants' now :P"
+      },{
       "version":"1.1.9.1",
       "build":"20",
       "timestamp": 1682983127,
