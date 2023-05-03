@@ -6,7 +6,7 @@
       "version":"1.1.10.1",
       "build":"22",
       "timestamp": 1683123979,
-      "text": "ADDED option to not display username on main page (recommended for small devices)\nIMPROVED notificatons - choose what notif categories you want to receive!\nIMPROVED notifications - multiple at once\nIMPROVED notifications - tapping will open specific rant\nFIXED opening notifications not working on devices < Android 12\nFIXED broken linking for collabs"
+      "text": "ADDED option to not display username on main page (recommended for small devices)\nIMPROVED notifications - choose what notif categories you want to receive!\nIMPROVED notifications - multiple at once\nIMPROVED notifications - tapping will open specific rant\nFIXED opening notifications not working on devices < Android 12\nFIXED broken linking for collabs"
       },{
       "version":"1.1.10.0",
       "build":"21",
