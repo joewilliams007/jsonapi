@@ -1,8 +1,13 @@
 {
-  "version":"1.1.10.2",
-  "build":"23",
+  "version":"1.1.10.3",
+  "build":"24",
   "changelog": [
     {
+      "version":"1.1.10.3",
+      "build":"24",
+      "timestamp": 1683228037,
+      "text": "ADDED ability to chill rants by converting them to lower-case (option will be shown only for rants with a majority of upper-case characters)\nADDED ability to follow users to find them easily again\nIMPROVED profile page - easy user blocking, following, downloading of avatars etc."
+      },{
       "version":"1.1.10.2",
       "build":"23",
       "timestamp": 1683130845,
