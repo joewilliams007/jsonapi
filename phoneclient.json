@@ -128,6 +128,11 @@
         "timestamp": 1680693153,
         "text": "ADDED feed settings\nFIXED small alignement issues"
       },{
+        "version":"1.?",
+        "build":"2",
+        "timestamp": 1680693153,
+        "text": "// build version 2 is missing oh no"
+      },{
         "version":"1",
         "build":"1", 
         "timestamp": 1680625513,
