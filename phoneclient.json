@@ -1,8 +1,13 @@
 {
-  "version":"1.1.10.6",
-  "build":"27",
+  "version":"1.1.10.7",
+  "build":"28",
   "changelog": [
     {
+      "version":"1.1.10.7",
+      "build":"28",
+      "timestamp": 1683376334,
+      "text": "ADDED link for swag store\nADDED option for binary user scores\nIMRPOVED follows - select either all or specific user for recent feed"
+      },{
       "version":"1.1.10.6",
       "build":"27",
       "timestamp": 1683376334,
