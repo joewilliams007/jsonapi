@@ -1,8 +1,13 @@
 {
-  "version":"1.1.10.9",
-  "build":"30",
+  "version":"1.1.11.0",
+  "build":"31",
   "changelog": [
     {
+      "version":"1.1.11.0",
+      "build":"31",
+      "timestamp": 1684624436,
+      "text": "ADDED support for connecting to sky API\nADDED backup and restore data to sky servers\nADDED react to posts"
+      },{
       "version":"1.1.10.9",
       "build":"30",
       "timestamp": 1684247961,
