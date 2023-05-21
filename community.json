@@ -400,7 +400,7 @@
       },{
         "title":"Api for devRant community projects",
         "os":"",
-        "type":"documentation",
+        "type":"API",
         "timestamp_added":1680790260,
         "desc": "This projects file community.json contains alot of devRant projects data in JSON-format. The file can be used raw as an API endpoint.",
         "relevant_dr_url":"",
@@ -853,6 +853,18 @@
         "language": "",
         "active": false,
         "owner": "abhn"
+      },{
+        "title":"skyAPI",
+        "os":"",
+        "type":"API",
+        "timestamp_added":1684671895,
+        "desc": "the skyAPI is a service that can be used to use features not included in the orgional devRant API. skyAPI is not intended as it's own social media, but rather as an optional add-on",
+        "relevant_dr_url":"",
+        "website": "",
+        "github": "https://github.com/joewilliams007/skyAPI/tree/main",
+        "language": "node",
+        "active": true,
+        "owner": "joewilliams007"
       }
   ]
 }
