@@ -861,7 +861,7 @@
         "desc": "the skyAPI is a service that can be used to use features not included in the orgional devRant API. skyAPI is not intended as it's own social media, but rather as an optional add-on",
         "relevant_dr_url":"",
         "website": "",
-        "github": "https://github.com/joewilliams007/skyAPI/tree/main",
+        "github": "https://github.com/joewilliams007/skyAPI",
         "language": "node",
         "active": true,
         "owner": "joewilliams007"
