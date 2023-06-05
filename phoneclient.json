@@ -1,13 +1,8 @@
 {
-  "version":"1.1.11.2",
-  "build":"33",
+  "version":"1.1.11.1",
+  "build":"32",
   "changelog": [
     {
-      "version":"1.1.11.2",
-      "build":"33",
-      "timestamp": ,
-      "text": "IMPROVED blocking green dots only if rant <5 ++\nMISC community projects will be fetched from skyAPI, and fallback to GitHub"
-      },{
       "version":"1.1.11.1",
       "build":"32",
       "timestamp": 1684709716,
