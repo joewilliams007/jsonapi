@@ -6,7 +6,7 @@ This projects file community.json contains alot of devRant projects data in JSON
 - the community projects API has been merged to the skyAPI https://github.com/joewilliams007/skyAPI
 - this allows for users uploading projects themselves (requirements atleast 500 devRant score and verified sky session)
 - the structure has not been changed. altough more data has been added, such as the uploaders id
-- this way the GitHub page can act as a fallback API
+- this way this GitHub page can act as a fallback API
 - new endpoint: http://stardash.de:2002/community
 - using raspberry pi 4, [can be self hosted with ease](https://github.com/joewilliams007/skyAPI#installing)
 
