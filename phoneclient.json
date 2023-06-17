@@ -1,8 +1,13 @@
 {
-  "version":"1.1.11.3",
-  "build":"34",
+  "version":"1.1.11.4",
+  "build":"35",
   "changelog": [
     {
+      "version":"1.1.11.4",
+      "build":"35",
+      "timestamp": 1687007232,
+      "text": "IMPROVED the author of the rant will never be blocked in comments"
+      },{
       "version":"1.1.11.3",
       "build":"34",
       "timestamp": 1686250663,
