@@ -6,7 +6,7 @@
       "version":"1.1.12.1",
       "build":"37",
       "timestamp": 1688744847,
-      "text": "ADDED ability to set video or picture as profile background\n\nespecially good looking in amoled mode"
+      "text": "ADDED amoled variant theme\nADDED ability to set video or picture as profile background\n\n// especially good looking in amoled mode"
       },{
       "version":"1.1.12.0",
       "build":"36",
