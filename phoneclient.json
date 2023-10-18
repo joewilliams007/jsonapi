@@ -1,8 +1,13 @@
 {
-      "version":"1.2.0.2",
-      "build":"40",
+      "version":"1.2.0.3",
+      "build":"41",
   "changelog": [
-      {
+        {
+      "version":"1.2.0.3",
+      "build":"41",
+      "timestamp": 1697659755,
+      "text": "ADDED option to delete comments\nADDED option to edit comments\n\n// note: edit time-limits of devRant apply. 5min/30min(++ users) limit for editing"
+      },{
       "version":"1.2.0.2",
       "build":"40",
       "timestamp": 1697312509,
