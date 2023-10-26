@@ -6,7 +6,7 @@
       "version":"1.2.0.4",
       "build":"42",
       "timestamp": 1698305097,
-      "text": "IMPROVED amoled mode - visibility of text fields\nIMPROVED general design\n\n// What's new with skyAPI? From now on skyAPI servers store recent rants that have been posted. Use cases: in a devRant downtime, rants may still be available. The surprise Rant feature may become more than just one at a time. Statistics can be released on topics and changes in the community."
+      "text": "IMPROVED amoled mode - visibility of text fields\nIMPROVED general design\n\n// What's new with skyAPI? From now on skyAPI servers store recent rants that have been posted. Use cases: in a devRant downtime, rants may still be available. The surprise Rant feature may become more than just one at a time. Statistics can be released on topics and changes in the community. In case of a user deleting his profile, his rants may still be available with his user details hidden"
       },{
       "version":"1.2.0.3",
       "build":"41",
