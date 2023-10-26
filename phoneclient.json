@@ -1,8 +1,13 @@
 {
-      "version":"1.2.0.4",
-      "build":"42",
+      "version":"1.2.0.5",
+      "build":"43",
   "changelog": [
-        {
+         {
+      "version":"1.2.0.5",
+      "build":"43",
+      "timestamp": 1698359459,
+      "text": "ADDED Be the hero of your home screen. New widget for your avatar!\n\n// note, user must be logged in first and opened their profile. please also be patient, as the background from the avatar will be removed on creation"
+      },{
       "version":"1.2.0.4",
       "build":"42",
       "timestamp": 1698305097,
