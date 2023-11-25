@@ -2,7 +2,12 @@
       "version":"1.2.0.6",
       "build":"44",
   "changelog": [
-         {
+           {
+      "version":"1.2.0.7",
+      "build":"45",
+      "timestamp": 1700933592,
+      "text": "ADDED ability to stash rant (upload to skyAPI) for preservation. auto-stash set to off by default.\n\n// Note: the new feed is automatically being stashed. This is to ensure their preservation."
+      },{
       "version":"1.2.0.6",
       "build":"44",
       "timestamp": 1700739487,
