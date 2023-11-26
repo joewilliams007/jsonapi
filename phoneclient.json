@@ -6,7 +6,7 @@
       "version":"1.2.0.8",
       "build":"46",
       "timestamp": 1701021739,
-      "text": "ADDED ability new feed type: 'random'.\n\nMay still work even when dR is down"
+      "text": "ADDED ability new feed type: 'random'.\n\n// May still work even when dR is down"
       },{
       "version":"1.2.0.7",
       "build":"45",
